@@ -16,18 +16,18 @@ An alternative display version is available at [PayloadsAllTheThingsWeb](https:/
 </p>
 
 
-📖 Documentation
+📖 Dökümantasyon
 -----
-Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
+Her bölüm aşağıdaki dosyaları içerir. Yeni bölüm açmak için  `_template_vuln` kullanabilirsiniz:
 
-- README.md - vulnerability description and how to exploit it, including several payloads
-- Intruder - a set of files to give to Burp Intruder
-- Images - pictures for the README.md
-- Files - some files referenced in the README.md
+- README.md - güvenlik açığını nasıl sömüreceğinizi anlatır.
+- Intruder - Burp Intruder dosyaları bulunuz
+- Images - README.md'deki fotoğraflar bulunur.
+- Files - README.md'deki referans dosyalar bulunur
 
-You might also like the `Methodology and Resources` folder :
+`Metodoloji ve Kaynaklar` klasörünün içindekiler:
 
-- [Methodology and Resources](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
+- [Metodoloji ve Kaynaklar](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
   - [Active Directory Attack.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md)
   - [Cloud - AWS Pentest.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
   - [Cloud - Azure Pentest.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20Azure%20Pentest.md)
